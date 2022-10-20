@@ -5,3 +5,5 @@ cara pindah branch
 '''
 git check out feature_a
 '''
+
+git branch feature b
